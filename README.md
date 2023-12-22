@@ -1,2 +1,2 @@
-# MySkill - Project - Prediction-Model
+# MySkill Project -Prediction_Model
 Data Analyst Using Python
